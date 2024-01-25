@@ -1,0 +1,158 @@
+.bg-container {
+    background-image: linear-gradient(#bfe6f2, #f5d95b);
+    min-height: 100vh;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #79baba;
+}
+
+.create-heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 600;
+    color: #495950;
+}
+
+.create-sub-heading {
+    font-family: "Nunito";
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.user-input {
+    width: 100%;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: #9facb5;
+    background-color: white;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.button {
+    height: 40px;
+    width: 75px;
+    border-width: 0px;
+    border-radius: 8px;
+    background-color: #4263a6;
+    font-family: "Roboto";
+    font-size: 18px;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+.list-items-container {
+    margin-top: 0px;
+    padding: 0px;
+}
+
+.list-container {
+    margin-top: 18px;
+}
+
+.checkbox-input {
+    height: 20px;
+    width: 20px;
+    margin-top: 12px;
+    margin-right: 12px;
+}
+
+.label-container {
+    width: 100%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #224c5e;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    background-image: linear-gradient(#71c2f5, #8aebc6, #8febb8);
+    border-radius: 6px;
+}
+
+.label-text {
+    width: 82%;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-family: "Roboto";
+    font-weight: 500;
+
+}
+
+.delete-icon-container {
+    width: 18%;
+    text-align: right;
+
+
+}
+
+.delete-icon {
+    padding: 10px;
+    margin: 10px;
+    background-image: radial-gradient(#f5a15b, #f5d4b8);
+    border-radius: 7px;
+
+}
+
+.checked {
+    text-decoration: line-through;
+    color: red;
+}
+
+.image {
+    height: 100px;
+    width: 120px;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-heading {
+    color: #959ead;
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.footer-para {
+    color: #959ead;
+    font-family: "roboto";
+    font-size: 14px;
+}
+
+.icon-two {
+    font-size: 16px;
+    color: #959ead;
+}
+
+.inline {
+    background-color: #959ead;
+}
+
+.nav-image {
+    height: 40px;
+    width: 40px;
+
+}
+
+.nav-image-two {
+    height: 70px;
+    width: 80px;
+    border-radius: 40px;
+}
